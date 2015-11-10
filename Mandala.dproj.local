@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.01.14 22:40:16.531.dproj,D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\Project1.dproj=D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\Mandala.dproj</Transaction>
+    <Transaction>2011.01.14 22:41:29.718.pas,D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\Unit1.pas=C:\Source\Mandala\frmMandala.pas</Transaction>
+    <Transaction>2011.01.14 22:41:29.718.dfm,D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\Unit1.dfm=C:\Source\Mandala\frmMandala.dfm</Transaction>
+    <Transaction>2011.01.14 22:41:34.687.dproj,D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\Mandala.dproj=C:\Source\Mandala\Mandala.dproj</Transaction>
+    <Transaction>2011.01.15 10:07:33.609.pas,C:\Source\Mandala\Unit1.pas=C:\Source\Mandala\_units\uCode.pas</Transaction>
+    <Transaction>2011.01.15 13:39:18.251.pas,C:\Source\Mandala\Unit1.pas=C:\Source\Mandala\_units\uConst.pas</Transaction>
+  </Transactions>
+</BorlandProject>
